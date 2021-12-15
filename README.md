@@ -59,7 +59,7 @@ Detail Pagina
 <img src="images/schets.png" width="375px" alt="breakdown van de hele pagina">
 
 ### dynamisch deel (bijv menu): 
-<img src="images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+<img src="images/detailpagina.png" width="375px" alt="breakdown van een dynamisch deel">
 </details>
 
 
@@ -228,8 +228,13 @@ hier screenshot(s) van je eindresultaat
 
 Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-1. bron 1
-2. bron 2
-3. ...
+1. https://www.w3schools.com/jsref/prop_element_classlist.asp
+2. https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+3. https://www.w3schools.com/cssref/pr_dim_width.asp
+4. https://developer.mozilla.org/en-US/docs/Web/HTML/Element/select
+5. https://stackoverflow.com/questions/9419263/how-to-play-audio
+6. https://www.w3schools.com/cssref/css_selectors.asp
+7. https://developer.mozilla.org/en-US/docs/Web/CSS/position
+8. https://www.w3schools.com/css/css3_fonts.asp
 
 </details>
