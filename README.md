@@ -72,27 +72,15 @@ Detail Pagina
 <summary>uitwerken voor 1e voortgang</summary>
 
 ### Stand van zaken
-Ik heb moeite met op gang komen, maar als ik eenmaal bezig ben lukt het wel. Ik heb nu de html van 1 pagina en de styling voor het menu.
+Ik heb moeite met op gang komen, maar als ik eenmaal bezig ben lukt het wel. Ik had een breakdown schets gemaakt en vergeleken met klasgenoten hoe bepaalde elementen toch anders gecodeert kunnen worden voor beter resultaat. Ik heb nu de html van 1 pagina en de styling voor het menu. Dit ging mij gelukkig makkelijk af. Wel wat moeite met de navigatie menu maar dit uiteindelijk wel gelukt.
 
 <img src="images/voortgang1.png" width="375px">
-
-### Agenda voor meeting
-samen met je groepje opstellen
-
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
-
+<img src="images/schets.png" width="375px">
 
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- Betere oplossing vinden voor het hamburgermenu hoe ik deze ga laten transitionen. 
 
 </details>
 
@@ -106,27 +94,18 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>uitwerken voor 2e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
+Ik ben gaan kijken waar ik op mijn website een mictrointeractie kan bouwen. De asos website heeft er heel veel maar ik wil 1 uitkiezen wat ik begrijp en niet te moeilijk is. Zo wou ik ook mijn website responsive maken maar dat vond ik te lastig dus heb ik ervoor gekozen om me te focussen op mijn surfaceplan. Hiervoor kies ik 5 onderwerpen uit die ik ga toepassen. Paar die ik heb gekozen zijn - Navigatie beweegbaar maken
+- Dark/light mode
+- Prefered reduced mode 
+In mijn laatste section op de pagina staan de merken van de website, deze heb ik als losse afbeeldingen ingeladen en zelf gekeken hoeveel width en margin nodig heeft. 
 
 ### Agenda voor meeting
-samen met je groepje opstellen
-
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
-
 
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
-
+- Ik heb mijn werk aan een klasgenoot (Jaclyn) laten zien en ze vond dat ik goed op weg ben en het handig is om te kijken of mijn animatie haalbaar is en of ik daar tijdig hulp voor moet zoeken. 
+- Paar klasgenoten hadden ook de 2e pagina al, html en simpele css.
 </details>
 
 
@@ -176,7 +155,7 @@ Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbe
 <summary>uitwerken voor 3e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+De pagina voor mijn 1e pagina is helemaal af, html, css en js. Ik ben nu bezig met mijn 2e pagina waarin ik een animatie ga ontwikkelen. Zodra een product in de winkelmand wordt geplaatst verandert "0" naar een "1" en hiervoor ga ik javascript gebruiken. Hoe precies, weet ik nog niet dus daar ik ga hulp voor vragen via mijn oud klasgenoot. 
 
 
 ### Agenda voor meeting
@@ -192,10 +171,9 @@ samen met je groepje opstellen
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- Oplossing vinden voor mijn animatie idee.
+- Leren hoe ik een hover van producten in een section plaats.
+
 
 </details>
 
@@ -209,12 +187,13 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>uitwerken voor eindgesprek</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Beide pagina's zijn af waarbij ik heb gefocust op wat ik zelf kan en begrijp ipv het te moeilijk voor mezelf maken. Ik ben een herkanser uit het 4e jaar dus voor mij is het vak oké gegaan en heb ik alles simpel en duidelijk mogelijk geprobeert te maken. Ik heb veel gehad aan alle lesslides op DLO en de losse oefeningen. 
 
 ### Screenshot(s)
 
 hier screenshot(s) van je eindresultaat
-
+<img src="images/eindresultaathomepagina.png" width="375px">
+<img src="images/eindresultaatdetailpagina.png" width="375px">
 </details>
 
 

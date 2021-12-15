@@ -19,6 +19,8 @@ function hide_hamburger_menu(){
 
 hamburger_menu_kruisje.addEventListener("click", hide_hamburger_menu);
 
+
+// winkelmandje audio en animatie
 var in_mandje_knop = document.querySelector(".detailpagina>section:first-of-type button:first-of-type");
 var winkelmandje = document.querySelector("header nav ul:first-of-type li:nth-of-type(6)");
 var klik_geluid = new Audio("images/geluidje.mp3");
